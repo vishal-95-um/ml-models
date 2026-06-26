@@ -36,6 +36,7 @@ ml-models/
     ├── 01_basic_linear_regression
     ├── 02_multiple_linear_regression
     └── 03_numpy_linear_regression
+```text
 
 
 ## Future Work
