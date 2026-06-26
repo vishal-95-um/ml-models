@@ -30,6 +30,7 @@ pip install numpy pandas matplotlib scikit-learn
 jupyter notebook
 
 ## Structure
+```text
 ml-models/
 └── 01_linear_regression/
     ├── 01_basic_linear_regression
